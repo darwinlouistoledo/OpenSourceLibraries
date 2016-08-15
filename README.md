@@ -2,8 +2,7 @@
 This contains a list of all the Open Source Library I'm using in Android App Development.
 
 
-## The List
----
+##The List
 
 **[Android Support Library](https://developer.android.com/topic/libraries/support-library/index.html)**
 
