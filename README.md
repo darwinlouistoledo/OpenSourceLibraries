@@ -98,5 +98,3 @@ Android specific bindings for RxJava.
 This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main thread or any given Looper.
 
 ***Note: I'm still learning more about RxAndroid.***
-
----
